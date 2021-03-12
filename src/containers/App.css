@@ -1,0 +1,14 @@
+
+@font-face {
+  font-family: 'Sabanita Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Sabanita Regular'), url('Sabanita-ow05x.woff') format('woff');
+  }
+
+
+h1 {
+  font-family: 'Sabanita Regular';
+  font-weight: 200;
+  color: #0ccac4;
+}
